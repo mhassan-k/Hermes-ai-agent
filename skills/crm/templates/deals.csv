@@ -1,0 +1,2 @@
+id,title,contact_id,company_id,stage,value,currency,opened,expected_close,status,notes
+acme-pilot,Acme pilot subscription,jane-doe,acme,qualified,6000,USD,2026-05-31,2026-06-30,open,Pilot for 3 seats then expand
